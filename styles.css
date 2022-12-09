@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.sidebar{
+    margin: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+.videos{
+    margin-left: 35%;
+}
